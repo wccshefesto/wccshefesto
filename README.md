@@ -20,4 +20,4 @@
   <img align="center" alt="node" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-I love technologies and Computer Science. Currently working as Software Test Engineer.
+I love technologies and Computer Science. Currently working as Software Test Engineer and opened to new roles.
